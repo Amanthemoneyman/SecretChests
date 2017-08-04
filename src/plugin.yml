@@ -1,0 +1,7 @@
+name: SecretChests
+main: me.alex.SecretChests.SecretChests
+version: 0.1 FINAL
+author: Amanthemoneyman
+commands:
+  secretchests:
+    aliases: [sc]

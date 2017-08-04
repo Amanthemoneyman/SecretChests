@@ -1,0 +1,12 @@
+Messages:
+  Prefix: '&8&l[&5&lSecretChests&8&l]'
+  Help: '&8----------{Prefix}&r&8----------\n &5/secretchest create &e- Creates a secret chest where ever you right / left click!'
+  AlreadyMade: '{Prefix} &cThere is already a secret chest there!'
+  OnCreate: '{Prefix} &eYou have created a secret chest at &d{x}&e,&d{y}&e,&d{z}'
+  NotAChest: '{Prefix} &cThat is not a chest!'
+  OnOpen: '{Prefix} &e{PlayerName} &cHas found a secret chest!'
+  NoPermission: '{Prefix} &cYou do not have permission!'
+  IncorrectArgs: '{Prefix} &cThat is not a correct argument!'
+  WaitingCreation: '{Prefix} &eRight / Left click any chest to create a new secret chest.'
+Saved:
+  - 'world,x,y,z'
